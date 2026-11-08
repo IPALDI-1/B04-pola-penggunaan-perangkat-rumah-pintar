@@ -5,9 +5,8 @@ Repository ini memuat seluruh artefak **UTS Milestone 1** mata kuliah **IF2116 P
 | | |
 |---|---|
 | **Project ID** | B04 |
-| **Nama Kelompok** | (isi sesuai daftar kelompok di Teams) |
+| **Nama Kelompok** | Kelompok 10 |
 | **Kelas** | IF-B PAGI |
-| **Dosen** | Al Hamidy |
 | **Anggota** | Ipaldi Sembiring (231112081), Mikkael Raynala Tampubolon (231112313), Muhammad Dhani Irvansyah (231112747) |
 
 ## Deskripsi Masalah
