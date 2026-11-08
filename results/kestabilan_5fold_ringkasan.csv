@@ -1,0 +1,9 @@
+,,Silhouette,Silhouette,Davies-Bouldin,Davies-Bouldin,Calinski-Harabasz,Calinski-Harabasz
+,,mean,std,mean,std,mean,std
+Model,k,,,,,,
+Agglomerative,2,0.169,0.023,3.397,0.518,86.855,11.933
+Agglomerative,3,0.138,0.028,2.997,0.249,82.714,7.521
+GMM,2,0.1,0.019,4.319,0.175,64.406,4.988
+GMM,3,0.051,0.042,4.27,0.343,51.886,5.127
+K-Means,2,0.1,0.006,3.302,0.057,99.055,3.447
+K-Means,3,0.099,0.005,2.806,0.033,98.011,3.772

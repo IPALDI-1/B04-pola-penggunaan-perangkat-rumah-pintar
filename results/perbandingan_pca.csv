@@ -1,0 +1,7 @@
+Skenario,k,Dimensi,Silhouette,Davies-Bouldin,Calinski-Harabasz,ARI vs tanpa PCA
+Tanpa PCA (22 fitur),3,22,0.099,2.81,489.419,1.0
+PCA 18 komponen,3,18,0.099,2.811,489.168,0.98
+PCA 14 komponen,3,14,0.098,2.817,487.827,0.949
+Tanpa PCA (22 fitur),5,22,0.098,2.235,446.702,1.0
+PCA 18 komponen,5,18,0.098,2.234,446.558,0.981
+PCA 14 komponen,5,14,0.097,2.242,444.947,0.925

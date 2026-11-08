@@ -1,0 +1,19 @@
+Model,Peran,k,Metode validasi,Silhouette,Davies-Bouldin,Calinski-Harabasz
+K-Means,Baseline,2,Hold-out 80/20: data latih (6.719 jam),0.101,3.317,496.294
+K-Means,Baseline,2,Hold-out 80/20: data uji (1.680 jam),0.101,3.23,108.386
+K-Means,Baseline,2,5-Fold CV: rata-rata ± simpangan baku,0.100 ± 0.006,3.302 ± 0.057,99.055 ± 3.447
+K-Means,Baseline,3,Hold-out 80/20: data latih (6.719 jam),0.099,2.81,489.419
+K-Means,Baseline,3,Hold-out 80/20: data uji (1.680 jam),0.103,2.742,105.16
+K-Means,Baseline,3,5-Fold CV: rata-rata ± simpangan baku,0.099 ± 0.005,2.806 ± 0.033,98.011 ± 3.772
+GMM,Kandidat 1,2,Hold-out 80/20: data latih (6.719 jam),0.112,4.289,323.599
+GMM,Kandidat 1,2,Hold-out 80/20: data uji (1.680 jam),0.113,4.371,66.042
+GMM,Kandidat 1,2,5-Fold CV: rata-rata ± simpangan baku,0.100 ± 0.019,4.319 ± 0.175,64.406 ± 4.988
+GMM,Kandidat 1,3,Hold-out 80/20: data latih (6.719 jam),0.068,4.368,250.217
+GMM,Kandidat 1,3,Hold-out 80/20: data uji (1.680 jam),0.062,4.372,51.29
+GMM,Kandidat 1,3,5-Fold CV: rata-rata ± simpangan baku,0.051 ± 0.042,4.270 ± 0.343,51.886 ± 5.127
+Agglomerative,Kandidat 2,2,Hold-out 80/20: data latih (6.719 jam),0.073,2.643,330.697
+Agglomerative,Kandidat 2,2,Hold-out 80/20: data uji (1.680 jam),0.119,2.611,101.794
+Agglomerative,Kandidat 2,2,5-Fold CV: rata-rata ± simpangan baku,0.169 ± 0.023,3.397 ± 0.518,86.855 ± 11.933
+Agglomerative,Kandidat 2,3,Hold-out 80/20: data latih (6.719 jam),0.081,3.486,332.698
+Agglomerative,Kandidat 2,3,Hold-out 80/20: data uji (1.680 jam),0.109,3.266,89.081
+Agglomerative,Kandidat 2,3,5-Fold CV: rata-rata ± simpangan baku,0.138 ± 0.028,2.997 ± 0.249,82.714 ± 7.521
