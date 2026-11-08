@@ -1,111 +1,60 @@
- 
-Smart Home Electricity Consumption Pattern Analysis
-<p align="center">
-<strong>Kelompok 10</strong><br>
+# B04 - Pola Penggunaan Perangkat Rumah Pintar
 
-  Data Analysis Project
-</p>
-1. Project Overview
-This project focuses on analyzing electricity consumption patterns in a Smart Home environment. Electricity usage in a household can vary depending on time, weather conditions, and daily activities.
-By utilizing data analysis techniques, this project aims to explore electricity consumption behavior, identify usage patterns, and understand the relationship between energy consumption, time, and weather conditions.
-The analysis is expected to provide meaningful insights that can support better energy management and identify potential opportunities for electricity efficiency in smart homes.
-2. Problem Statement
-Pola penggunaan perangkat listrik pada sebuah rumah pintar berbeda-beda menurut waktu dan kondisi cuaca, tetapi pola tersebut belum diketahui secara jelas dari data konsumsi mentah.
-Tanpa pemahaman pola ini, sulit mengidentifikasi kebiasaan penggunaan energi dan peluang penghematan.
-Oleh karena itu, diperlukan proses pengolahan dan analisis data untuk memahami karakteristik konsumsi listrik serta mengeksplorasi keterkaitan antara waktu, kondisi cuaca, dan penggunaan energi pada lingkungan rumah pintar.
-3. Project Objectives
-Proyek ini memiliki beberapa tujuan utama:
-Menganalisis pola konsumsi energi listrik berdasarkan waktu.
-Mengeksplorasi hubungan antara kondisi cuaca dan konsumsi energi listrik.
-Mengidentifikasi kecenderungan dan kebiasaan penggunaan perangkat listrik.
-Menemukan potensi peluang penghematan energi berdasarkan hasil analisis data.
-Menyajikan informasi konsumsi energi dalam bentuk analisis dan visualisasi yang mudah dipahami.
-4. Team Members
-Proyek ini dikembangkan oleh Kelompok 10 dengan anggota sebagai berikut:
-No.	NIM	Nama Anggota
-1	231112081	Ipaldi Sembiring
-2	231112313	Mikkael Raynala Tampubolon
-3	231112747	Muhammad Dhani Irvansyah
-5. Repository Structure
-Repository ini berisi notebook Jupyter (.ipynb) yang dikembangkan dan dijalankan menggunakan Google Colab.
-B04-Pola-Penggunaan-Perangkat-Rumah-Pintar/
-│
-├── B04_PolaPenggunaanPerangkatRumahPintar_U....ipynb
-│
-└── README.md
-File Description
-File	Description
-.ipynb	Notebook utama yang berisi kode program, pengolahan data, proses analisis, dan hasil visualisasi.
-README.md	Dokumentasi proyek yang menjelaskan gambaran umum dan panduan penggunaan repository.
-6. Technology Stack
-Berikut merupakan teknologi dan tools yang digunakan:
-Technology	Description
-Python	Bahasa pemrograman untuk pengolahan dan analisis data.
-Google Colab	Lingkungan pengembangan berbasis cloud untuk menjalankan notebook Python.
-Jupyter Notebook	Format notebook interaktif untuk menggabungkan kode, teks, dan visualisasi.
-GitHub	Platform untuk menyimpan, mengelola, dan mendokumentasikan kode proyek.
-7. Installation and Usage Guide
-Notebook dalam repository ini dapat dijalankan menggunakan Google Colab tanpa perlu melakukan instalasi Python secara lokal.
-7.1 Access the Repository
-Buka repository GitHub ini.
-Temukan file notebook dengan ekstensi .ipynb.
-Klik file tersebut untuk melihat isi notebook.
-7.2 Open Notebook in Google Colab
-Kunjungi Google Colab.
-Pilih menu File.
-Klik Open notebook.
-Pilih tab GitHub.
-Masukkan URL repository GitHub proyek ini.
-Pilih file notebook yang tersedia.
-Tunggu hingga notebook berhasil dibuka.
-7.3 Run the Notebook
-Setelah notebook berhasil dibuka:
-Pastikan seluruh kebutuhan library sudah tersedia.
-Pastikan dataset yang diperlukan dapat diakses oleh Google Colab.
-Periksa lokasi atau path dataset apabila notebook menggunakan Google Drive atau penyimpanan eksternal.
-Jalankan setiap cell secara berurutan dari bagian paling atas.
-Tunggu hingga seluruh proses pengolahan dan analisis selesai.
-Untuk menjalankan satu cell, klik tombol Run di sebelah kiri cell atau gunakan kombinasi Shift + Enter.
-7.4 View Analysis Results
-Setelah seluruh cell berhasil dijalankan, pengguna dapat melihat hasil analisis melalui output notebook, termasuk:
-Hasil pemrosesan dan eksplorasi data.
-Informasi karakteristik dataset.
-Analisis pola konsumsi energi listrik.
-Visualisasi hubungan waktu dan konsumsi energi.
-Eksplorasi keterkaitan kondisi cuaca dengan penggunaan energi.
-Important Notes:
-Notebook dikembangkan menggunakan Google Colab.
-Dataset tidak disertakan secara langsung dalam repository ini.
-Pengguna perlu menyediakan dataset yang dibutuhkan sebelum menjalankan notebook.
-Library tambahan dapat diinstal melalui cell notebook apabila diperlukan.
-8. Project Scope
-Ruang lingkup proyek ini berfokus pada analisis data konsumsi energi listrik dalam lingkungan Smart Home, dengan memperhatikan beberapa aspek berikut:
-Time-Based Analysis
-Menganalisis perubahan pola penggunaan energi listrik berdasarkan waktu untuk memahami kecenderungan konsumsi dalam periode tertentu.
-Weather-Based Analysis
-Mengeksplorasi keterkaitan kondisi cuaca dengan perubahan konsumsi energi listrik.
-Energy Consumption Analysis
-Mengidentifikasi karakteristik dan pola penggunaan energi berdasarkan informasi yang tersedia dalam dataset.
-9. Expected Outcomes
-Melalui proyek ini, diharapkan diperoleh:
-Pemahaman yang lebih baik mengenai pola konsumsi energi listrik pada rumah pintar.
-Informasi mengenai variasi penggunaan energi berdasarkan waktu.
-Gambaran keterkaitan kondisi cuaca dengan konsumsi listrik.
-Insight yang dapat digunakan untuk mengidentifikasi peluang penghematan energi.
-10. Project Information
-Category	Details
-Project Name	Smart Home Electricity Consumption Pattern Analysis
-Group	Kelompok 10
-Project Type	Data Analysis
-Programming Language	Python
-Development Platform	Google Colab
-Repository Platform	GitHub
-Notebook Format	.ipynb
-<p align="center">
-<strong>GROUP 10</strong><br>
+Repository ini memuat seluruh artefak **UTS Milestone 1** mata kuliah **IF2116 Pembelajaran Mesin**.
 
-  Smart Home Electricity Consumption Pattern Analysis<br><br>
-<em>Academic Project</em>
-</p>
-Google Colab
- 
+| | |
+|---|---|
+| **Project ID** | B04 |
+| **Nama Kelompok** | (isi sesuai daftar kelompok di Teams) |
+| **Kelas** | IF-B PAGI |
+| **Dosen** | Al Hamidy |
+| **Anggota** | Ipaldi Sembiring (231112081), Mikkael Raynala Tampubolon (231112313), Muhammad Dhani Irvansyah (231112747) |
+
+## Deskripsi Masalah
+Pola penggunaan perangkat listrik pada sebuah rumah pintar berbeda-beda menurut waktu dan kondisi cuaca, tetapi pola tersebut belum terlihat jelas dari data konsumsi mentah. Project ini mengelompokkan jam-jam penggunaan listrik ke dalam cluster dengan karakteristik konsumsi perangkat yang serupa, lalu menafsirkannya sebagai pola penggunaan perangkat.
+
+- **Jenis masalah:** unsupervised learning (clustering), tanpa target atau label.
+- **Metode:** K-Means (baseline), Gaussian Mixture Model dan Agglomerative Clustering (kandidat), PCA (uji reduksi dimensi).
+- **Unit observasi:** satu jam (agregasi rata-rata dari data per menit), 8.399 observasi dan 22 fitur.
+- **Evaluasi:** hold-out 80/20 dan 5-Fold Cross-Validation dengan Silhouette, Davies-Bouldin, dan Calinski-Harabasz. Semua hasil memakai `random_state = 42`.
+
+## Isi Repository
+| Berkas atau folder | Keterangan |
+|---|---|
+| `B04_PolaPenggunaanPerangkatRumahPintar_UTS_Milestone1.ipynb` | Notebook eksperimen lengkap (bagian A sampai W) |
+| `report/Laporan_UTS_Milestone1_B04.pdf` | Laporan UTS Milestone 1 |
+| `docs/DATASET.md` | Dokumentasi sumber dan karakteristik dataset |
+| `results/` | Tabel hasil eksperimen awal (CSV) dan grafik (`results/figures/`) |
+| `requirements.txt` | Versi library yang tercatat saat eksperimen |
+
+## Petunjuk Penggunaan
+1. Buka notebook di **Google Colab** (unggah file `.ipynb` lewat *File, Upload notebook*, atau buka dari tab GitHub).
+2. Pilih **Runtime, Run all**. Tidak perlu mengunggah dataset karena sel kode pertama mengunduhnya otomatis dari Kaggle lewat `kagglehub` (butuh koneksi internet).
+3. Eksekusi penuh membutuhkan beberapa menit. Angka pada notebook, laporan, dan folder `results/` berasal dari eksekusi yang sama.
+
+Untuk menjalankan secara lokal: `pip install -r requirements.txt`, lalu jalankan notebook dengan Jupyter.
+
+## Sumber Dataset
+*Smart Home Dataset with Weather Information* (Kaggle, pengunggah taranvee), file `HomeC.csv`:
+https://www.kaggle.com/datasets/taranvee/smart-home-dataset-with-weather-information
+
+Dataset tidak disertakan dalam repository (ukuran sekitar 125 MB). Cara memperolehnya dijelaskan di `docs/DATASET.md`.
+
+## Ringkasan Hasil Awal
+Silhouette pada 5-Fold Cross-Validation (rata-rata ± simpangan baku antar fold). Tabel lengkap ada di `results/tabel_hasil_eksperimen.csv`.
+
+| Model | k = 2 | k = 3 |
+|---|---|---|
+| K-Means (baseline) | 0,100 ± 0,006 | 0,099 ± 0,005 |
+| GMM (kandidat 1) | 0,100 ± 0,019 | 0,051 ± 0,042 |
+| Agglomerative (kandidat 2) | 0,169 ± 0,023 | 0,138 ± 0,028 |
+
+- Tidak ada model yang unggul pada semua metrik, dan semua nilai Silhouette rendah, sehingga struktur cluster belum tegas.
+- Ketiga model membentuk kelompok yang sangat berbeda (K-Means memisahkan musim dan pemanas, GMM memisahkan jam aktif dan jam sepi, Agglomerative memisahkan jam berawan).
+- Model final belum diputuskan pada Milestone 1.
+
+## Keterbatasan
+- Interval 1 baris = 1 menit dan zona waktu UTC-5 adalah asumsi dari pola data, bukan keterangan resmi dataset.
+- Pembagian data dan Cross-Validation dilakukan secara acak pada data deret waktu.
+- Evaluasi data uji Agglomerative memakai centroid terdekat sehingga tidak sepenuhnya sebanding dengan model lain.
+- Tidak ada label kebenaran, sehingga evaluasi hanya memakai metrik internal dan interpretasi manual.
